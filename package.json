@@ -3,6 +3,7 @@
     "version": "1.0.0",
     "description": "Babel example",
     "main": "lib/index.js",
+    "type": "module",
     "scripts": {
         "test": "mocha"
     },

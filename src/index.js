@@ -1,2 +1,1 @@
-const add = require("add.cjs");
-module.exports = add;
+export { default as add } from "./add.js";
