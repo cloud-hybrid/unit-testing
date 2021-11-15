@@ -4,8 +4,6 @@
     "description": "Babel example",
     "main": "lib/index.js",
     "scripts": {
-        "compile": "babel src -d lib",
-        "prepublish": "npm run compile",
         "test": "mocha"
     },
     "directories": {
